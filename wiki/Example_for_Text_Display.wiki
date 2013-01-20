@@ -1,7 +1,7 @@
 #summary One-sentence summary of this page.
 
 = Example for Text Display =
-[
+[http://arduino-vgaout.googlecode.com/svn/trunk/TextDisplay.jpg]
 {{{
 
 #include "SYSdef.h"
