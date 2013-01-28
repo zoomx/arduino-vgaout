@@ -1,2 +1,2 @@
-* Jan 21, 2013: Example for Text Display
+ * Jan 21, 2013: Example for Text Display
  [Example_for_Text_Display Text Display]  
