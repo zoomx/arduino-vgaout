@@ -2,4 +2,4 @@
   * [Example_for_Text_Display Text Display] 
 
   * [Line_Col Line_Col(line,color)]
-  * [PutsP ]
+  * [nabe2 ]
