@@ -3,4 +3,4 @@
 
   * [Line_Col Line_Col(line,color)]
 
-  * [Line_Col Line_Col(line,color)]
+  * [Puts Line_Col Line_Col(line,color)]
