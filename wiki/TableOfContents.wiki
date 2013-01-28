@@ -1,4 +1,3 @@
-
  * [ExSketches Example Sketches]
 
- * [Functions]
+ * [Functions Functions]
