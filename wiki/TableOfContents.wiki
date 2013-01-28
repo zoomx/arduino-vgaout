@@ -1,16 +1,7 @@
-= 64-color VGA with Arduino and 8 registers =
+= Draft =
 
-== News ==
+== Exampls ==
 
- * Jan 21, 2013: Example for Text Display
+ * [Example for Text Display]
 
-[http://arduino-vgaout.googlecode.com/svn/trunk/TextDisplay.jpg]
-
- * [http://code.google.com/p/arduino-vgaout/wiki/Example_for_Text_Display?ts=1358695489&updated=Example_for_Text_Display Example for Text Display]
-----
-[http://arduino-vgaout.googlecode.com/svn/trunk/VGA13_PinLO.jpg]
-
- * [http://arduino-vgaout.googlecode.com/svn/trunk/VGA11_Schematic.jpg Schematic]
-----
-== Demo Video ==
-<wiki:video url="http://www.youtube.com/watch?v=g8t3JWZOqwg"/>
+== Functions ==
