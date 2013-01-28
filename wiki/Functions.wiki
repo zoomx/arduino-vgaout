@@ -1,1 +1,4 @@
 ==Functions
+
+ *[PutsP]
+ *[Line_Col]
