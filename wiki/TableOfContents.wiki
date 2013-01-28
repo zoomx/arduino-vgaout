@@ -2,6 +2,6 @@
 
 == Exampls ==
 
- * [Example for Text Display]
+ * [Example_for_Text_Display]
 
 == Functions ==
