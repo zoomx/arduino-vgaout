@@ -1,6 +1,6 @@
 === Using VGAout ===
 ----
- Draft xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+ Draf                                                            
 
  * [ExSketches Example Sketches]
 
