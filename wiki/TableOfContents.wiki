@@ -1,9 +1,4 @@
-= Draft =
+== Draft =
 
-== Exampls ==
-
- * [Example Example_for_Text_Display]
-
-== Functions ==
-
+=== Exampls ==
  * [ExSketches]
