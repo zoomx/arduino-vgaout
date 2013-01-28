@@ -1,5 +1,5 @@
-#sidebar TableOfContents
-[test]
+ #sidebar TableOfContents
+ [test]
 === Using VGAout ===
 
  Draft ---------------------------------------------------                                                            
