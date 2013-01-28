@@ -2,4 +2,5 @@
   * [Example_for_Text_Display Text Display] 
 
  *[PutsP PutsP(x,y,c)]
- *[Line_Col]
+ *[Line_Col ]
+ *[PutsP ]
