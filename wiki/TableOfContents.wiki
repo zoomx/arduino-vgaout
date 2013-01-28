@@ -2,7 +2,7 @@
 
 == Exampls ==
 
- * [Example_for_Text_Display]
+ * [Example Example_for_Text_Display]
 
 == Functions ==
 
