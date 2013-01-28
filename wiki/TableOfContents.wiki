@@ -5,3 +5,5 @@
  * [Example_for_Text_Display]
 
 == Functions ==
+
+ * [ExSketches]
