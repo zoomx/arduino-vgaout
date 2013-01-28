@@ -1,4 +1,4 @@
-==Functions==
+ ==Functions==
 
  *[PutsP PutsP(x,y,c)]
  *[Line_Col]
