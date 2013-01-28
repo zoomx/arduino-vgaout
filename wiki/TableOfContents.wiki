@@ -1,7 +1,2 @@
-
-
- Draft ---------------------------------------------------                                                            
-
  * [ExSketches Example Sketches]
-
  * [Functions Functions]
