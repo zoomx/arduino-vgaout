@@ -1,6 +1,5 @@
-
   * [Line_Col Line_Col(line,color)]
 
-  * [Puts PutsP(x,y,c)]
+  * [PutsP PutsP(x,y,c)]
 
   * [Cleat_txt Clear()]
