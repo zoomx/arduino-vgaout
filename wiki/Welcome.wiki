@@ -1,5 +1,9 @@
 ===Using VGAout===
 
-作成中です。
+作成中です。 Jan 30,2013
 
-　* Functions Jan 30,2013
+ * Functions
+   * ClearTxt()             画面クリア
+   * PutsP(x,y,c)           x列,y行の位置にcの文字を表示する
+   * LineCol(line,color)    line行の色をcoloにする
+   * Delay66(n)             おおよそn×66msの時間無駄ループ
