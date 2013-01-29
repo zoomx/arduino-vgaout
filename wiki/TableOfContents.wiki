@@ -1,2 +1,5 @@
- * [ExSketches Example Sketches]
- * [Functions Functions]
+ * Functions
+   * [ClearTxt ClearTxt()]　　　　　　　　画面クリア
+   * [PutsP PutsP(x,y,c)]　　　　　　x列,y行の位置にcの文字を表示する
+   * [Line_Col LineCol(line,color)]　　　line行の色をcoloにする
+   * [Delay66 Delay66(n)]　　　　　　　　おおよそn×66msの時間無駄ループ
