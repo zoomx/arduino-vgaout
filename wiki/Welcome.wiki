@@ -1,6 +1,6 @@
 ===Using VGAout===
 
-作成中です。 Jan 30,2013
+適当に関数を作成中です。 Jan 30,2013
 
  * Functions
    * ClearTxt()             画面クリア
