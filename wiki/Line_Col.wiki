@@ -1,4 +1,4 @@
-==LineCol(line,color)==
+== LineCol(line,color) ==
 set line color
 ==Use==
 LineCol(line,col)
