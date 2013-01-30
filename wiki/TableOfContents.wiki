@@ -1,4 +1,6 @@
- * [Example_for_Text_Display Example Text Display] 
+ * Examples
+   * [Text Display0]
+   * [Text Display1] 
  * Functions
    * [ClearTxt ClearTxt()]
    * [PutsP PutsP(x,y,c)]
