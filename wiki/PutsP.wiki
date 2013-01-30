@@ -1,1 +1,10 @@
-test
+==PutsP(x,y,c)==
+Print a charcter at given coordinate.
+
+==Use==
+PutsP(x,y,c)
+
+ * Arguments
+  * unsigned char x : x-coordinate 0 - 7
+  * unsigned char y : y-coordinate 0 - 13
+  * unsigned char c : ASCII code charcter and original ( file : CG_xx.h )
