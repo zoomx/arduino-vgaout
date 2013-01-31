@@ -5,4 +5,4 @@
    * [ClearScreen clear_screen()]
    * [PutChar put_char(x,y,c)]
    * [SetLineColor set_line_color(line,color)]
-   * [Delay66 delay66(time)]
+   * [Delay66 delay66(n)]
