@@ -1,5 +1,5 @@
-==delay66(time)==
-Delay about ( time x 66 )ms
+==delay66(n)==
+Delay about ( n x 66 )ms
 
 ==Use==
 put_char(x,y,c)
