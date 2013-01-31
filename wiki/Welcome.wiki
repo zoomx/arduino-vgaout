@@ -8,4 +8,7 @@
    * [SetLineColor set_line_color(line,color)]　　　line行の色をcoloにする
    * [Delay66 delay66(n)]　　　　　　　　　　　　おおよそ(n x 66)msの時間無駄ループ
 
+ * Data Creation
+   * [CharaGene Character generator]
+
  * [ExSketches Example Sketches]
