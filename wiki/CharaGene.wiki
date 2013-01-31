@@ -3,6 +3,7 @@ Character generator http://en.wikipedia.org/wiki/Character_generator
 
   * File CG_xx.h
 {{{
+/*
 [5x7 font]          'A'
 0x00    00000000
 0x7C    01111100    *****
