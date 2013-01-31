@@ -6,3 +6,5 @@
    * [PutChar put_char(x,y,c)]
    * [SetLineColor set_line_color(line,color)]
    * [Delay66 delay66(n)]
+ * Data Creation
+   * [CharaGene Character generator]
