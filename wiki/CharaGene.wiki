@@ -1,8 +1,8 @@
 ==Chracter generator==
 Character generator http://en.wikipedia.org/wiki/Character_generator
 
+  * File CG_xx.h
 {{{
-
 [5x7 font]          'A'
 0x00    00000000
 0x7C    01111100    *****
@@ -151,5 +151,4 @@ Character generator http://en.wikipedia.org/wiki/Character_generator
 0x00,0x00,0x41,0x41,0x36,0x08,  /* 7DH '}', */
 0x00,0x02,0x01,0x03,0x02,0x01,  /* 7EH '~', */
 0x00,0xFF,0xFF,0xFF,0xFF,0xFF,  /* 7FH '', */
-
 }}}
