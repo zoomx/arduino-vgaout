@@ -1,4 +1,4 @@
-=== set_line_color(line,color) ==
+== set_line_color(line,color) ==
 Set the color of a line at(line)
 ==Use==
 set_line_color(line,col)
