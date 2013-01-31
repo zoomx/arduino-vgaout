@@ -2,7 +2,7 @@
    * [Example_for_Text_Display Text Display0]
    * [ Text Display1] 
  * Functions
-   * [ClearTxt ClearTxt()]
-   * [PutsP PutsP(x,y,c)]
-   * [Line_Col LineCol(line,color)]
-   * [Delay66 Delay66(n)]
+   * [ClearScreen clear_screen()]
+   * [PutChar put_char(x,y,c)]
+   * [SetLineColor set_line_color(line,color)]
+   * [Delay66 delay66(time)]
