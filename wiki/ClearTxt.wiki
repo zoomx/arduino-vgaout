@@ -1,3 +1,0 @@
-==ClearScreen()==
-
- Clear the screen.
