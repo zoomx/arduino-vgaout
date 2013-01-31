@@ -1,10 +1,9 @@
-===delay66(time)===
-Print a character at given coordinate.
+==delay66(time)==
+Delay about ( time x 66 )ms
 
 ==Use==
 put_char(x,y,c)
 
  * Arguments
-  * unsigned char x : x-coordinate 0 - 7
-  * unsigned char y : y-coordinate 0 - 13
-  * unsigned char c : ASCII code character and original ( file : CG_xx.h )
+  * unsigned char time : LSB : about 66ms
+  
