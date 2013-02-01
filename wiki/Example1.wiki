@@ -1,5 +1,5 @@
 == Example1 for Text Display ==
-
+<wiki:video url="http://www.youtube.com/watch?v=K0CX7m1389Q"/>
 {{{
 void setup()
 {
