@@ -3,7 +3,7 @@
    * [Example1 Text Display1] 
  * Functions
    * [ClearScreen clear_screen()]
-   * [PutChar put_char(x,y,c)]
+   * [PutChar put_char(c), put_char(x,y,c)]
    * [SetLineColor set_line_color(line,color)]
    * [Delay66 delay66(n)]
  * Data Creation
