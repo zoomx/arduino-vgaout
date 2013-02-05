@@ -6,6 +6,7 @@
    * [PutChar put_char(c)]   
    * [PutChar put_char(x,y,c)]
    * [SetLineColor set_line_color(line,color)]
+   * [SetCursor set_cursor(x,y)]
    * [Delay66 delay66(n)]
 
  * Data Creation
