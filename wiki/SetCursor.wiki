@@ -1,4 +1,4 @@
-Cooming Soon
+*Cooming Soon*
 == set_cursor(x,y) ==
 Select the new cursor position.
 ==Use==
