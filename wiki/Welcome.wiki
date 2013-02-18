@@ -1,14 +1,21 @@
 ==Using VGAout==
 
-適当に関数を作成中です。 Jan 31,2013
-
- * Functions
-   * [ClearScreen clear_screen()]　　　　　　　　　画面クリア
-   * [PutChar put_char(x,y,c)]　　　　　　　　　x列,y行の位置にcの文字を表示する
-   * [SetLineColor set_line_color(line,color)]　　　line行の色をcoloにする
-   * [Delay66 delay66(n)]　　　　　　　　　　　　おおよそ(n x 66)msの時間無駄ループ
-
  * Data Creation
    * [CharaGene Character generator]
 
  * [ExSketches Example Sketches]
+ * Examples
+   * [Example_for_Text_Display Text Display0]
+   * [Example1 Text Display1] 
+   * [Example2 Text Display2]
+ * Functions
+   * [ClearScreen clear_screen()]
+   * [PutChar put_char(c)]   
+   * [PutChar put_char(x,y,c)]
+   * [SetLineColor set_line_color(line,color)]
+   * [SetCursor set_cursor(x,y)]
+   * [Delay66 delay66(n)]
+   * [Print print(string)]
+
+ * Data Creation
+   * [CharaGene Character generator]
