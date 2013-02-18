@@ -2,4 +2,6 @@
 *Coming Soon*
  The string to be printed.
 ==Use==
-print(string)
+{{{
+const char * string
+}}}
