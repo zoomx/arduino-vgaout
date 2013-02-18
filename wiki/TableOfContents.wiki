@@ -1,6 +1,7 @@
  * Examples
    * [Example_for_Text_Display Text Display0]
    * [Example1 Text Display1] 
+   * [Example2 Text Display2]
  * Functions
    * [ClearScreen clear_screen()]
    * [PutChar put_char(c)]   
