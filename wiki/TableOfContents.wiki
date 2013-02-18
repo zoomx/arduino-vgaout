@@ -8,6 +8,7 @@
    * [SetLineColor set_line_color(line,color)]
    * [SetCursor set_cursor(x,y)]
    * [Delay66 delay66(n)]
+   * [Print print(string)]
 
  * Data Creation
    * [CharaGene Character generator]
