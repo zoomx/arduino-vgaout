@@ -1,0 +1,7 @@
+==ChangeMode(mode)==
+change mode
+
+==Use==
+ChangeMode(CRT_TEXT) : text mode
+
+ChangeMode(CRT_DRAW) : draw line mode
