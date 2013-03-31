@@ -1,4 +1,5 @@
 ==ChangeMode(mode)==
+
 change mode
 
 ==Use==
