@@ -2,7 +2,7 @@
 Delay about ( n x 66 )ms
 
 ==Use==
-put_char(x,y,c)
+delay66(n)
 
  * Arguments
   * unsigned char time : LSB : about 66ms
