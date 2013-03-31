@@ -10,7 +10,7 @@
    * [SetCursor set_cursor(x,y)]
    * [Delay66 delay66(n)]
    * [Print print(string)]
-   * [ChangeMode(mode)]
+   * [ChangeMode ChangeMode(mode)]
 
  * Data Creation
    * [CharaGene Character generator]
