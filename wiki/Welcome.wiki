@@ -17,6 +17,7 @@
    * [Delay66 delay66(n)]
    * [Print print(string)]
    * [ChangeMode ChangeMode(mode)]
+   * [SetColor set_color(start,end1,end2)]
 
  * Data Creation
    * [CharaGene Character generator]
